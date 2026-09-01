@@ -1,0 +1,3 @@
+# Evidencias geradas automaticamente pelo Cypress via docker-compose
+cypress-screenshots/
+cypress-videos/
